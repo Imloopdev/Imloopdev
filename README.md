@@ -15,6 +15,7 @@
 
 [![Website](https://img.shields.io/badge/techduo.ng-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](https://www.techduo.ng)
 [![GitHub](https://img.shields.io/badge/@imloopdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imloopdev)
+[![YouTube](https://img.shields.io/badge/ImLoopDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ImLoopdev)
 
 </div>
 
@@ -24,25 +25,17 @@
 
 CEO of **[Techduo](https://www.techduo.ng)** — building AI-powered call center infrastructure for Africa.  
 I work across the full stack: from soldering laptop motherboards to shipping production VoIP+LLM systems.  
-Game dev on the side. UE5 assets on [Fab](https://www.fab.com). Linux everywhere.
+Game dev on the side. UE5 assets on [Fab](https://www.fab.com/sellers/Loopdev). Linux everywhere.
 
 ---
 
 ## 🏗️ What I'm building
 
-### 🤖 AI Call Center — *Surjen / Techduo*
-> Production VoIP system bridging Africa's Talking SIP trunks → OpenAI Realtime API → healthcare intake AI agents.  
-> Multi-tenant, Python-native, runs on Ubuntu. No Kamailio — custom UDP dispatcher routes calls by dialed number to isolated per-client processes.
+## 🤖 AI Call Center — *Techduo*
+> Conversational AI agents that handle inbound phone calls — healthcare intake, data collection, and CRM logging — fully automated, no human operator needed.  
+> Built for African telecoms infrastructure. Multi-tenant, production-grade, runs 24/7.
 
-```
-Caller → AT SIP → dispatcher.py :5060 → company/main.py → OpenAI Realtime WS
-                                                        ↓
-                                              RTP ←→ G.711 audio ←→ Caller
-```
-
-**Stack:** Python · WebSockets · SIP/RTP · OpenAI Realtime API · Notion · Google Sheets · ReportLab · Ubuntu systemd
-
----
+**Stack:** Python · OpenAI Realtime API · VoIP · Notion · Google Sheets · Ubuntu
 
 ## 🔧 Hardware
 
@@ -50,14 +43,14 @@ Caller → AT SIP → dispatcher.py :5060 → company/main.py → OpenAI Realtim
 - PC builds (consumer → workstation → server rack)
 - Home server setup & management
 - Network design, VLANs, routing, firewalling
-- Soldering — BGA reballing, chip-level repairs
+- Soldering — Basic Soldering and Desoldering skills
 
 ---
 
 ## 🎮 Game Dev
 
 - **Engine:** Unreal Engine 5
-- **Assets:** Published on [Fab](https://www.fab.com) — environments, props, tools
+- **Assets:** Published on [Fab](https://www.fab.com/sellers/Loopdev) — environments, props, tools
 - **3D:** Blender for modelling, sculpting, and pipeline work
 
 ---
@@ -85,8 +78,8 @@ Caller → AT SIP → dispatcher.py :5060 → company/main.py → OpenAI Realtim
 
 <div align="center">
 
-![imloopdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imloopdev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imloopdev&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imloopdev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imloopdev&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -98,10 +91,11 @@ Caller → AT SIP → dispatcher.py :5060 → company/main.py → OpenAI Realtim
 |---|---|
 | 🌍 Company | [techduo.ng](https://www.techduo.ng) |
 | 🎮 Assets | [Fab Marketplace](https://www.fab.com) |
+| 📺 YouTube | [ImLoopDev](https://www.youtube.com/@ImLoopdev) |
 | 💼 GitHub | [@imloopdev](https://github.com/imloopdev) |
 
 ---
 
 <div align="center">
-<sub>Built in Africa. Runs on Linux. Powered by curiosity.</sub>
+<sub>Running on Linux, powered by caffeine</sub>
 </div>
